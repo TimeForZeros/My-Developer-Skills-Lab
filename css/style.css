@@ -35,6 +35,7 @@ h2 {
 }
 
 input {
+    font-size: 18px;
 } 
 span {
     color: #9DC284;
@@ -43,4 +44,5 @@ span {
 }
 .list {
     color: #F2A849;
+    font-size: 20px;
 }
